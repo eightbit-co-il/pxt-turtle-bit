@@ -7,7 +7,7 @@
   "turtleBit.OFFLed|block": "כבה את כל הלדים",
   "turtleBit.SetLed|block": " קבע צבע ללד צד $RgbLed R:$red G:$green B:$blue",
   "turtleBit.button|block": "כפתור",
-  "turtleBit.run|block": "סע $direction במהירות: $speed \\%,
+  "turtleBit.run|block": "סע $direction במהירות: $speed \\%",
   "turtleBit.state|block": "$sta",
   "turtleBit.ultra|block": "אולטראסוניק",
   "turtleBit|block": "אוסקר",
