@@ -1,0 +1,18 @@
+{
+  "turtleBit.LED_brightness|block": "LED brightness $br",
+  "turtleBit.Led|block": "set $RgbLed RGBled $col",
+  "turtleBit.LineTracking|block": "LineTracking",
+  "turtleBit.MotorSta|block": "$M motor $act",
+  "turtleBit.Motor|block": "$M motor run $D speed: $speed \\%",
+  "turtleBit.OFFLed|block": "turn off all RGB-led",
+  "turtleBit.SetLed|block": " set RGBled $RgbLed R:$red G:$green B:$blue",
+  "turtleBit.button|block": "Button",
+  "turtleBit.run|block": "car $direction speed: $speed \\%",
+  "turtleBit.state|block": "car $sta",
+  "turtleBit.ultra|block": "Ultrasonic",
+  "turtleBit|block": "turtleBit",
+  "{id:category}TurtleBit": "TurtleBit",
+  "{id:group}Motor": "Motor",
+  "{id:group}RGB-led": "RGB-led",
+  "{id:group}Sensor": "Sensor"
+}

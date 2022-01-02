@@ -1,0 +1,12 @@
+{
+  "COLOR": "use for RGB-LED",
+  "DIR": "use for control motor",
+  "turtleBit.Led": "set the rgb-led color via the color card",
+  "turtleBit.Motor": "set speed of motor",
+  "turtleBit.MotorSta": "set motor state",
+  "turtleBit.OFFLed": "turn off all rgb-led",
+  "turtleBit.SetLed": "set the rgb-led color via data",
+  "turtleBit.button": "A button on the driver board",
+  "turtleBit.run": "car run diretion",
+  "turtleBit.state": "set cat state"
+}

@@ -1,0 +1,18 @@
+{
+  "turtleBit.LED_brightness|block": "בהירות לד $br",
+  "turtleBit.Led|block": "קבע לד צד $RgbLed לצבע $col",
+  "turtleBit.LineTracking|block": "עוקב קו",
+  "turtleBit.MotorSta|block": "$act מנוע צד $M",
+  "turtleBit.Motor|block": "סע $D עם מנוע צד $M במהירות: $speed \\%",
+  "turtleBit.OFFLed|block": "כבה את כל הלדים",
+  "turtleBit.SetLed|block": " קבע צבע ללד צד $RgbLed R:$red G:$green B:$blue",
+  "turtleBit.button|block": "כפתור",
+  "turtleBit.run|block": "סע $direction במהירות: $speed \\%,
+  "turtleBit.state|block": "$sta",
+  "turtleBit.ultra|block": "אולטראסוניק",
+  "turtleBit|block": "אוסקר",
+  "{id:category}TurtleBit": "אוסקר",
+  "{id:group}Motor": "מנוע",
+  "{id:group}RGB-led": "לד",
+  "{id:group}Sensor": "חיישן"
+}
