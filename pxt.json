@@ -1,11 +1,11 @@
 {
     "name": "pxt-turtle-bit",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "keyestudio turtle-bit for microbit",
     "dependencies": {
         "core": "*",
         "neopixel": "github:mworkfun/pxt-neopixel-bluetooth",
-        "pxt-ir-remote": "github:mworkfun/pxt-ir-remote#d38780f97e1703f099aa5c06e40966968fa15235",
+        "pxt-ir-remote": "github:eightbit-co-il/pxt-ir-remote",
         "microphone": "*"
     },
     "files": [

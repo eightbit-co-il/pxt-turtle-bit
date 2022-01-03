@@ -5,7 +5,7 @@
   "turtleBit.MotorSta|block": "$act מנוע צד $M",
   "turtleBit.Motor|block": "סע $D עם מנוע צד $M במהירות: $speed \\%",
   "turtleBit.OFFLed|block": "כבה את כל הלדים",
-  "turtleBit.SetLed|block": " קבע צבע ללד צד $RgbLed R:$red G:$green B:$blue",
+  "turtleBit.SetLed|block": " קבע צבע ללד צד $RgbLed אדום:$red ירוק:$green כחול:$blue",
   "turtleBit.button|block": "כפתור",
   "turtleBit.run|block": "סע $direction במהירות: $speed \\%",
   "turtleBit.state|block": "$sta את אוסקר",

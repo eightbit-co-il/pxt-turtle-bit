@@ -1,12 +1,12 @@
 {
-  "COLOR": "use for RGB-LED",
-  "DIR": "use for control motor",
-  "turtleBit.Led": "set the rgb-led color via the color card",
-  "turtleBit.Motor": "set speed of motor",
-  "turtleBit.MotorSta": "set motor state",
-  "turtleBit.OFFLed": "turn off all rgb-led",
-  "turtleBit.SetLed": "set the rgb-led color via data",
-  "turtleBit.button": "A button on the driver board",
-  "turtleBit.run": "car run diretion",
-  "turtleBit.state": "set cat state"
+  "COLOR": "שימוש ללד",
+  "DIR": "שימוש עבור שליטה במנוע",
+  "turtleBit.Led": "קבע את צבע הלד לפי כרטיס הצבע",
+  "turtleBit.Motor": "קבע מהירות מנוע",
+  "turtleBit.MotorSta": "קבע מצב מנוע",
+  "turtleBit.OFFLed": "כבה את כל הלדים",
+  "turtleBit.SetLed": "קבע צבע לד לפי מידע",
+  "turtleBit.button": "כפתור על הכרטי הרחבה",
+  "turtleBit.run": "הכיוון של אוסקר",
+  "turtleBit.state": "קבע את המצב של אוסקר"
 }
