@@ -2,10 +2,15 @@
  * use for RGB-LED
  */
 enum COLOR {
+    //% block.loc.he="אדום"
     red,
+    //% block.loc.he="ירוק"
     green,
+    //% block.loc.he="כחול"
     blue,
+    //% block.loc.he="לבן"
     white,
+    //% block.loc.he="שחור"
     black
 }
 /**
