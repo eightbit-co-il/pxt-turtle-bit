@@ -2,14 +2,19 @@
  * use for RGB-LED
  */
 enum COLOR {
+    //% block="Red"
     //% block.loc.he="אדום"
     red,
+    //% block="Green"
     //% block.loc.he="ירוק"
     green,
+    //% block="Blue"
     //% block.loc.he="כחול"
     blue,
+    //% block="White"
     //% block.loc.he="לבן"
     white,
+    //% block="Black"
     //% block.loc.he="שחור"
     black
 }
@@ -17,39 +22,52 @@ enum COLOR {
  * use for control motor
  */
 enum DIR {
+    //% block="Forward"
     //% block.loc.he="קדימה"
     Run_forward = 0,
+    //% block="Backward"
     //% block.loc.he="אחורה"
     Run_back = 1,
+    //% block="Left"
     //% block.loc.he="שמאלה"
     Turn_Left = 2,
+    //% block="Right"
     //% block.loc.he="ימינה"
     Turn_Right = 3
 }
 enum LR {
+    //% block="Left"
     //% block.loc.he="שמאל"
     LeftSide = 0,
+    //% block="Right"
     //% block.loc.he="ימין"
     RightSide = 1
 }
 enum MotorState {
+    //% block="Stop"
     //% block.loc.he="עצור"
     stop = 0,
+    //% block="Brake"
     //% block.loc.he="האט"
     brake = 1
 }
 enum MD {
+    //% block="Forward"
     //% block.loc.he="קדימה"
     Forward = 0,
+    //% block="Backward"
     //% block.loc.he="אחורה"
     Back = 1
 }
 
 enum LT {
+    //% block="Left"
     //% block.loc.he="שמאלה"
     Left,
+    //% block="Center"
     //% block.loc.he="אמצע"
     Center,
+    //% block="Right"
     //% block.loc.he="ימינה"
     Right
 }
