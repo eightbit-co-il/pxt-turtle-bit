@@ -12,27 +12,40 @@ enum COLOR {
  * use for control motor
  */
 enum DIR {
+    //% block.loc.he="קדימה"
     Run_forward = 0,
+    //% block.loc.he="אחורה"
     Run_back = 1,
+    //% block.loc.he="שמאלה"
     Turn_Left = 2,
+    //% block.loc.he="ימינה"
     Turn_Right = 3
 }
 enum LR {
+    //% block.loc.he="שמאל"
     LeftSide = 0,
+    //% block.loc.he="ימין"
     RightSide = 1
 }
 enum MotorState {
+    //% block.loc.he="עצור"
     stop = 0,
+    //% block.loc.he="האט"
     brake = 1
 }
 enum MD {
+    //% block.loc.he="קדימה"
     Forward = 0,
+    //% block.loc.he="אחורה"
     Back = 1
 }
 
 enum LT {
+    //% block.loc.he="שמאלה"
     Left,
+    //% block.loc.he="אמצע"
     Center,
+    //% block.loc.he="ימינה"
     Right
 }
 //% color="#ff6800" icon="\uf1b9" weight=15
